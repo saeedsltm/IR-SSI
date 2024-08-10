@@ -171,6 +171,12 @@ FIR:
   latitude: 35.6415
   longitude: 52.7536
   elevation: 2380.0
+FTB:
+- starttime: '2008-02-23T00:00:00'
+  endtime: null
+  latitude: 38.0171
+  longitude: 46.3944
+  elevation: 1665.0  
 GAR:
 - starttime: '2003-03-20T00:00:00'
   endtime: null
@@ -261,6 +267,12 @@ IL3:
   latitude: 35.4761
   longitude: 51.0238
   elevation: 989.0  
+IL5:
+- starttime: '2010-06-16T00:00:00'
+  endtime: null
+  latitude: 35.2128
+  longitude: 50.5811
+  elevation: 1353.0    
 JASK:
 - starttime: '2016-04-25T00:00:00'
   endtime: null
@@ -554,6 +566,12 @@ PRN:
   latitude: 36.2419
   longitude: 52.3381
   elevation: 1333.0
+QAM:
+- starttime: '2009-03-21T00:00:00'
+  endtime: null
+  latitude: 33.7607
+  longitude: 51.4397
+  elevation: 1865.0  
 QABG:
 - starttime: '2012-02-29T00:00:00'
   endtime: null
