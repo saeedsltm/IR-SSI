@@ -21,6 +21,12 @@ AKL:
   latitude: 36.5945
   longitude: 58.754
   elevation: 2510.0
+AFJ:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 35.8552
+  longitude: 51.7125
+  elevation: 2750.0
 ALA:
 - starttime: '2000-08-09T00:00:00'
   endtime: null
@@ -249,6 +255,12 @@ HSRG:
   latitude: 35.2418
   longitude: 48.2787
   elevation: 2545.0
+IL3:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 35.4761
+  longitude: 51.0238
+  elevation: 989.0  
 JASK:
 - starttime: '2016-04-25T00:00:00'
   endtime: null
@@ -273,6 +285,12 @@ JRKH:
   latitude: 35.9079
   longitude: 60.3494
   elevation: 1206.0
+KAZ:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 29.7820
+  longitude: 51.8400
+  elevation: 2850.0
 KBAM:
 - starttime: '2014-09-15T00:00:00'
   endtime: null
@@ -296,6 +314,12 @@ KFM:
   latitude: 33.52444
   longitude: 47.84694
   elevation: 1676.0
+KIA:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 36.2070
+  longitude: 53.6837
+  elevation: 2167.0
 KHGB:
 - starttime: '2010-03-21T00:00:00'
   endtime: null
@@ -446,6 +470,12 @@ MOG:
   latitude: 36.1079
   longitude: 59.3391
   elevation: 2577.0
+MOK:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 29.0445
+  longitude: 52.7141
+  elevation: 2788.0 
 MON:
 - starttime: '2005-03-21T00:00:00'
   endtime: null
@@ -500,6 +530,12 @@ NHDN:
   latitude: 31.3928
   longitude: 60.0502
   elevation: 1307.0
+PAR:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 29.8407
+  longitude: 53.0482
+  elevation: 3603.0
 PAY:
 - starttime: '2004-03-20T00:00:00'
   endtime: null
@@ -632,6 +668,12 @@ SHI:
   latitude: 29.6374
   longitude: 52.5201
   elevation: 1600.0
+SHV:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 37.5336
+  longitude: 57.6967
+  elevation: 1925.0 
 SHK1:
 - starttime: '2014-12-01T00:00:00'
   endtime: null
@@ -656,6 +698,18 @@ SRB:
   latitude: 37.8249
   longitude: 47.6634
   elevation: 1958.0
+SRO:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 36.3088
+  longitude: 59.4703
+  elevation: 1150.0
+SRV:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 29.3801
+  longitude: 53.01131
+  elevation: 2688.0 
 SRVN:
 - starttime: '2015-04-15T00:00:00'
   endtime: null
@@ -674,6 +728,12 @@ TAFT:
   latitude: 31.7228
   longitude: 54.1711
   elevation: 2036.0
+TBB:
+- starttime: '1996-01-01T00:00:00'
+  endtime: null
+  latitude: 34.9954
+  longitude: 51.7273
+  elevation: 1139.0 
 TBHD:
 - starttime: '2014-04-21T00:00:00'
   endtime: null
