@@ -7,7 +7,7 @@ net = "IR"
 dlsv = obs.read_inventory(dlsv)
 date = dt.now().strftime("%Y%m%d")
 
-data = {}
+data = []
 for network in dlsv:
     for station in network:
         code = station.code
@@ -18,14 +18,13 @@ for network in dlsv:
         et = station.end_date
         st = st.isoformat() if st else None
         et = et.isoformat() if et else None
-        d = {"starttime": st,
+        info = {"code":code,
+             "starttime": st,
              "endtime": et,
              "latitude":lat,
              "longitude":lon,
              "elevation":elv}
-        if code not in data:
-            data[code] = []
-        data[code].append(d)
+        data.append(info)
         
 with open(f"{net}_{date}.yml", "w") as outfile:
     dump(data, outfile, default_flow_style=False, sort_keys=False)
