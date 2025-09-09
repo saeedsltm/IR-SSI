@@ -2,7 +2,7 @@ import obspy as obs
 from yaml import dump
 from datetime import datetime as dt
 
-dlsv = "dataless/*"
+dlsv = "IR.xml"
 net = "IR"
 dlsv = obs.read_inventory(dlsv)
 date = dt.now().strftime("%Y%m%d")
