@@ -1,0 +1,30 @@
+from numpy import nan
+from yaml import dump
+
+'''
+you can download all stations info registered in ISC using:
+ "https://www.isc.ac.uk/registries/"
+and run this script to convert them.
+'''
+
+data = {}
+with open("station.txt") as f, open("ISC_20250909.yml", "w") as g:
+    next(f)
+    for l in f:
+        code = l[4:9]
+        lat = float(l[10:19]) if l[10:19].strip() else nan
+        lon = float(l[20:29]) if l[20:29].strip() else nan
+        elv = float(l[30:35]) if l[30:35].strip() else nan
+        st = l[48:68] if l[48:68].strip() else nan
+        et = l[74:94] if l[74:74].strip() else nan
+        d = {"starttime": st,
+             "endtime": et,
+             "latitude": lat,
+             "longitude": lon,
+             "elevation": elv}
+        if code not in data:
+            data[code] = []
+            data[code].append(d)
+    dump(data, g, default_flow_style=False, sort_keys=False)
+    
+        
