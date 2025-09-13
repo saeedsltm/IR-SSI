@@ -1,4 +1,4 @@
-- code: SH
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1000
   endTime: '2100-01-01'
@@ -8,8 +8,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SHR
-- code: SH
+  code: SHR
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2750
   endTime: '2100-01-01'
@@ -19,8 +19,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: AFJ
-- code: SH
+  code: AFJ
+- channel: SH
   digitizer: M36BBX
   elevation: 1109
   endTime: '2100-01-01'
@@ -30,8 +30,8 @@
   network: IR
   sensor: M36BBX
   startTime: '1996-01-01'
-  station: IL3
-- code: SH
+  code: IL3
+- channel: SH
   digitizer: HRD24
   elevation: 1139
   endTime: '2100-01-01'
@@ -41,8 +41,8 @@
   network: IR
   sensor: CMG3T
   startTime: '1996-01-01'
-  station: TBB
-- code: SH
+  code: TBB
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1353
   endTime: '2012-12-09'
@@ -52,8 +52,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: IL5
-- code: SH
+  code: IL5
+- channel: SH
   digitizer: SS1_RD3
   elevation: 1353
   endTime: '2100-01-01'
@@ -63,8 +63,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '2012-12-10'
-  station: IL5
-- code: SH
+  code: IL5
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2546
   endTime: '2013-10-01'
@@ -74,8 +74,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: DMV
-- code: SH
+  code: DMV
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2546
   endTime: '2100-01-01'
@@ -85,8 +85,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-10-02'
-  station: DMV
-- code: SH
+  code: DMV
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2380
   endTime: '2013-10-01'
@@ -96,8 +96,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: FIR
-- code: SH
+  code: FIR
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2380
   endTime: '2015-06-26'
@@ -107,8 +107,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-10-02'
-  station: FIR
-- code: BH
+  code: FIR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2380
   endTime: '2100-01-01'
@@ -118,8 +118,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-06-27'
-  station: FIR
-- code: SH
+  code: FIR
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2458
   endTime: '2011-08-08'
@@ -129,8 +129,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: GZV
-- code: SH
+  code: GZV
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2458
   endTime: '2013-04-14'
@@ -140,8 +140,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '2011-08-09'
-  station: GZV
-- code: SH
+  code: GZV
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2458
   endTime: '2013-11-30'
@@ -151,8 +151,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '2013-04-15'
-  station: GZV
-- code: SH
+  code: GZV
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2458
   endTime: '2100-01-01'
@@ -162,8 +162,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-12-01'
-  station: GZV
-- code: SH
+  code: GZV
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1658
   endTime: '2013-12-08'
@@ -173,8 +173,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MHD
-- code: SH
+  code: MHD
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1658
   endTime: '2100-01-01'
@@ -184,8 +184,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-12-09'
-  station: MHD
-- code: SH
+  code: MHD
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1950
   endTime: '2013-12-07'
@@ -195,8 +195,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: RAZ
-- code: SH
+  code: RAZ
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1950
   endTime: '2100-01-01'
@@ -206,8 +206,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-12-08'
-  station: RAZ
-- code: SH
+  code: RAZ
+- channel: SH
   digitizer: SS1_HRD
   elevation: 995
   endTime: '2013-10-22'
@@ -217,8 +217,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SFB
-- code: BH
+  code: SFB
+- channel: BH
   digitizer: DM24
   elevation: 995
   endTime: '2015-03-09'
@@ -228,8 +228,8 @@
   network: IR
   sensor: CMG3T
   startTime: '2013-10-23'
-  station: SFB
-- code: BH
+  code: SFB
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 995
   endTime: '2100-01-01'
@@ -239,8 +239,8 @@
   network: IR
   sensor: Tril240
   startTime: '2015-03-10'
-  station: SFB
-- code: SH
+  code: SFB
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1139
   endTime: '2012-10-30'
@@ -250,8 +250,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: VRN
-- code: BH
+  code: VRN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1139
   endTime: '2100-01-01'
@@ -261,8 +261,8 @@
   network: IR
   sensor: Tril120
   startTime: '2012-10-31'
-  station: VRN
-- code: SH
+  code: VRN
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1138
   endTime: '2012-12-13'
@@ -272,8 +272,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: HSB
-- code: BH
+  code: HSB
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1138
   endTime: '2100-01-01'
@@ -283,8 +283,8 @@
   network: IR
   sensor: Tril40
   startTime: '2012-12-14'
-  station: HSB
-- code: SH
+  code: HSB
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1000
   endTime: '2013-08-09'
@@ -294,8 +294,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: QOM
-- code: SH
+  code: QOM
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1000
   endTime: '2100-01-01'
@@ -305,8 +305,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-08-10'
-  station: QOM
-- code: SH
+  code: QOM
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1458
   endTime: '2012-12-31'
@@ -316,8 +316,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: TEH
-- code: BH
+  code: TEH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1458
   endTime: '2100-01-01'
@@ -327,8 +327,8 @@
   network: IR
   sensor: Tril40
   startTime: '2013-01-01'
-  station: TEH
-- code: BH
+  code: TEH
+- channel: BH
   digitizer: DM24
   elevation: 1418
   endTime: '2100-01-01'
@@ -338,8 +338,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2015-05-01'
-  station: TEHA
-- code: BH
+  code: TEHA
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1249
   endTime: '2100-01-01'
@@ -349,8 +349,8 @@
   network: IR
   sensor: Tril40
   startTime: '2017-12-16'
-  station: AMD1
-- code: BH
+  code: AMD1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1548
   endTime: '2100-01-01'
@@ -360,8 +360,8 @@
   network: IR
   sensor: Tril40
   startTime: '2021-06-01'
-  station: ILP6
-- code: SH
+  code: ILP6
+- channel: SH
   digitizer: SS1_RD3
   elevation: 200
   endTime: '2013-01-31'
@@ -371,8 +371,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: MND
-- code: BH
+  code: MND
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 200
   endTime: '2100-01-01'
@@ -382,8 +382,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-02-01'
-  station: MND
-- code: BH
+  code: MND
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1000
   endTime: '2100-01-01'
@@ -393,8 +393,8 @@
   network: IR
   sensor: Tril40
   startTime: '2016-01-01'
-  station: QJF1
-- code: BH
+  code: QJF1
+- channel: BH
   digitizer: RD3
   elevation: 1665
   endTime: '2100-01-01'
@@ -404,8 +404,8 @@
   network: IR
   sensor: CMG3T
   startTime: '1996-01-01'
-  station: FTB
-- code: SH
+  code: FTB
+- channel: SH
   digitizer: SS1_RD3
   elevation: 1550
   endTime: '2100-01-01'
@@ -415,8 +415,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: TBZ
-- code: SH
+  code: TBZ
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2137
   endTime: '2100-01-01'
@@ -426,8 +426,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: HRS
-- code: SH
+  code: HRS
+- channel: SH
   digitizer: SS1_RD3
   elevation: 1958
   endTime: '2100-01-01'
@@ -437,8 +437,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: SRB
-- code: SH
+  code: SRB
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2146
   endTime: '2100-01-01'
@@ -448,8 +448,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: HSH
-- code: SH
+  code: HSH
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2112
   endTime: '2100-01-01'
@@ -459,8 +459,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: BST
-- code: SH
+  code: BST
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2273
   endTime: '2015-08-07'
@@ -470,8 +470,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: AZR
-- code: SH
+  code: AZR
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2273
   endTime: '2100-01-01'
@@ -481,8 +481,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2015-08-08'
-  station: AZR
-- code: SH
+  code: AZR
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2290
   endTime: '2100-01-01'
@@ -492,8 +492,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: SHB
-- code: SH
+  code: SHB
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2142
   endTime: '2019-07-17'
@@ -503,8 +503,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: MRD
-- code: BH
+  code: MRD
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2142
   endTime: '2100-01-01'
@@ -514,8 +514,8 @@
   network: IR
   sensor: Tril40
   startTime: '2019-07-18'
-  station: MRD
-- code: BH
+  code: MRD
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1487
   endTime: '2100-01-01'
@@ -525,8 +525,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TABZ
-- code: BH
+  code: TABZ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1413
   endTime: '2100-01-01'
@@ -536,8 +536,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TAHR
-- code: BH
+  code: TAHR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1693
   endTime: '2100-01-01'
@@ -547,8 +547,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TVRZ
-- code: BH
+  code: TVRZ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1570
   endTime: '2100-01-01'
@@ -558,8 +558,8 @@
   network: IR
   sensor: Tril40
   startTime: '2016-01-01'
-  station: TAB1
-- code: BH
+  code: TAB1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1370
   endTime: '2100-01-01'
@@ -569,8 +569,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-03-10'
-  station: MAHB
-- code: BH
+  code: MAHB
+- channel: BH
   digitizer: DM24
   elevation: 2093
   endTime: '2100-01-01'
@@ -580,8 +580,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: QBNZ
-- code: BH
+  code: QBNZ
+- channel: BH
   digitizer: DM24
   elevation: 2085
   endTime: '2100-01-01'
@@ -591,8 +591,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: QABG
-- code: BH
+  code: QABG
+- channel: BH
   digitizer: DM24
   elevation: 2148
   endTime: '2100-01-01'
@@ -602,8 +602,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: QSDN
-- code: BH
+  code: QSDN
+- channel: BH
   digitizer: DM24
   elevation: 2212
   endTime: '2100-01-01'
@@ -613,8 +613,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: QALM
-- code: BH
+  code: QALM
+- channel: BH
   digitizer: DM24
   elevation: 1319
   endTime: '2100-01-01'
@@ -624,8 +624,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2013-04-23'
-  station: QCNT
-- code: BH
+  code: QCNT
+- channel: BH
   digitizer: DM24
   elevation: 1559
   endTime: '2100-01-01'
@@ -635,8 +635,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2019-09-14'
-  station: QRS1
-- code: BH
+  code: QRS1
+- channel: BH
   digitizer: DM24
   elevation: 1950
   endTime: '2013-06-24'
@@ -646,8 +646,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: GLO1
-- code: SH
+  code: GLO1
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1950
   endTime: '2100-01-01'
@@ -657,8 +657,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-06-25'
-  station: GLO
-- code: SH
+  code: GLO
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2600
   endTime: '2013-06-24'
@@ -668,8 +668,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: ALA
-- code: SH
+  code: ALA
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2600
   endTime: '2100-01-01'
@@ -679,8 +679,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-06-25'
-  station: ALA
-- code: SH
+  code: ALA
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2161
   endTime: '2013-06-24'
@@ -690,8 +690,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: KIA
-- code: SH
+  code: KIA
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2161
   endTime: '2100-01-01'
@@ -701,8 +701,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-06-25'
-  station: KIA
-- code: SH
+  code: KIA
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1333
   endTime: '2013-06-24'
@@ -712,8 +712,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: PRN
-- code: SH
+  code: PRN
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1333
   endTime: '2100-01-01'
@@ -723,8 +723,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-06-25'
-  station: PRN
-- code: BH
+  code: PRN
+- channel: BH
   digitizer: DM24
   elevation: 2651
   endTime: '2100-01-01'
@@ -734,8 +734,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2016-10-01'
-  station: KLST
-- code: BH
+  code: KLST
+- channel: BH
   digitizer: DM24
   elevation: 1979
   endTime: '2100-01-01'
@@ -745,8 +745,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2016-11-01'
-  station: MZPU
-- code: SH
+  code: MZPU
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2633
   endTime: '2020-07-12'
@@ -756,8 +756,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SHM
-- code: SH
+  code: SHM
+- channel: SH
   digitizer: SS1_Cen
   elevation: 2633
   endTime: '2100-01-01'
@@ -767,8 +767,8 @@
   network: IR
   sensor: SS1_Cen
   startTime: '2020-07-13'
-  station: SHM
-- code: SH
+  code: SHM
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1452
   endTime: '2100-01-01'
@@ -778,8 +778,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: LAS
-- code: SH
+  code: LAS
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1845
   endTime: '2100-01-01'
@@ -789,8 +789,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: ANJ
-- code: SH
+  code: ANJ
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1916
   endTime: '2100-01-01'
@@ -800,8 +800,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SHV
-- code: SH
+  code: SHV
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1335
   endTime: '2100-01-01'
@@ -811,8 +811,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: QHU
-- code: SH
+  code: QHU
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2510
   endTime: '2100-01-01'
@@ -822,8 +822,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: AKL
-- code: SH
+  code: AKL
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2547
   endTime: '2100-01-01'
@@ -833,8 +833,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: EMG
-- code: SH
+  code: EMG
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2435
   endTime: '2100-01-01'
@@ -844,8 +844,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SFR
-- code: BH
+  code: SFR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2034
   endTime: '2100-01-01'
@@ -855,8 +855,8 @@
   network: IR
   sensor: Tril120
   startTime: '1996-01-01'
-  station: SBZV
-- code: SH
+  code: SBZV
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1150
   endTime: '2100-01-01'
@@ -866,8 +866,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MHI
-- code: SH
+  code: MHI
+- channel: SH
   digitizer: M36SP
   elevation: 1050
   endTime: '2100-01-01'
@@ -877,8 +877,8 @@
   network: IR
   sensor: M36SP
   startTime: '1996-01-01'
-  station: SRO
-- code: SH
+  code: SRO
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2245
   endTime: '2100-01-01'
@@ -888,8 +888,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: KRD
-- code: SH
+  code: KRD
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1684
   endTime: '2100-01-01'
@@ -899,8 +899,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MYA
-- code: SH
+  code: MYA
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2100
   endTime: '2100-01-01'
@@ -910,8 +910,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: PAY
-- code: SH
+  code: PAY
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2577
   endTime: '2015-05-13'
@@ -921,8 +921,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MOG
-- code: SH
+  code: MOG
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2577
   endTime: '2100-01-01'
@@ -932,8 +932,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2015-05-14'
-  station: MOG
-- code: BH
+  code: MOG
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1206
   endTime: '2100-01-01'
@@ -943,8 +943,8 @@
   network: IR
   sensor: Tril120
   startTime: '1996-01-01'
-  station: JRKH
-- code: BH
+  code: JRKH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1741
   endTime: '2100-01-01'
@@ -954,8 +954,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-09-01'
-  station: TBJM
-- code: SH
+  code: TBJM
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1760
   endTime: '2100-01-01'
@@ -965,8 +965,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2016-05-03'
-  station: TBHD
-- code: SH
+  code: TBHD
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2060
   endTime: '2014-04-19'
@@ -976,8 +976,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: GHG
-- code: SH
+  code: GHG
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2060
   endTime: '2100-01-01'
@@ -987,8 +987,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2014-04-20'
-  station: GHG
-- code: SH
+  code: GHG
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1833
   endTime: '2013-12-24'
@@ -998,8 +998,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: VIS
-- code: SH
+  code: VIS
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1833
   endTime: '2100-01-01'
@@ -1009,8 +1009,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-12-25'
-  station: VIS
-- code: SH
+  code: VIS
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1840
   endTime: '2013-02-28'
@@ -1020,8 +1020,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: DHR
-- code: BH
+  code: DHR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1840
   endTime: '2100-01-01'
@@ -1031,8 +1031,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-03-01'
-  station: DHR
-- code: SH
+  code: DHR
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2140
   endTime: '2013-02-28'
@@ -1042,8 +1042,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: LIN
-- code: BH
+  code: LIN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2140
   endTime: '2100-01-01'
@@ -1053,8 +1053,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-03-01'
-  station: LIN
-- code: SH
+  code: LIN
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2330
   endTime: '2012-04-30'
@@ -1064,8 +1064,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: BZA
-- code: BH
+  code: BZA
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2330
   endTime: '2100-01-01'
@@ -1075,8 +1075,8 @@
   network: IR
   sensor: Tril120
   startTime: '2012-05-01'
-  station: BZA
-- code: SH
+  code: BZA
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1716
   endTime: '2012-05-13'
@@ -1086,8 +1086,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: KOM
-- code: BH
+  code: KOM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1716
   endTime: '2100-01-01'
@@ -1097,8 +1097,8 @@
   network: IR
   sensor: Tril40
   startTime: '2012-05-14'
-  station: KOM
-- code: BH
+  code: KOM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1715
   endTime: '2100-01-01'
@@ -1108,8 +1108,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: KCHF
-- code: SH
+  code: KCHF
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1338
   endTime: '2100-01-01'
@@ -1119,8 +1119,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-09-04'
-  station: KER
-- code: BH
+  code: KER
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 362
   endTime: '2100-01-01'
@@ -1130,8 +1130,8 @@
   network: IR
   sensor: Tril40
   startTime: '2017-11-26'
-  station: KGS1
-- code: BH
+  code: KGS1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2502
   endTime: '2100-01-01'
@@ -1141,8 +1141,8 @@
   network: IR
   sensor: Tril40
   startTime: '2018-04-01'
-  station: SNQR
-- code: SH
+  code: SNQR
+- channel: SH
   digitizer: SS1_Tau
   elevation: 949
   endTime: '2100-01-01'
@@ -1152,8 +1152,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2018-05-01'
-  station: GLG1
-- code: BH
+  code: GLG1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1642
   endTime: '2100-01-01'
@@ -1163,8 +1163,8 @@
   network: IR
   sensor: Tril40
   startTime: '2021-01-01'
-  station: KKOM
-- code: BH
+  code: KKOM
+- channel: BH
   digitizer: DM24
   elevation: 1676
   endTime: '2100-01-01'
@@ -1174,8 +1174,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: KFM
-- code: BH
+  code: KFM
+- channel: BH
   digitizer: DM24
   elevation: 1948
   endTime: '2012-04-30'
@@ -1185,8 +1185,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: DOB
-- code: BH
+  code: DOB
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1948
   endTime: '2100-01-01'
@@ -1196,8 +1196,8 @@
   network: IR
   sensor: Tril40
   startTime: '2012-05-01'
-  station: DOB
-- code: BH
+  code: DOB
+- channel: BH
   digitizer: DM24
   elevation: 1733
   endTime: '2012-04-30'
@@ -1207,8 +1207,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '1996-01-01'
-  station: KMR
-- code: BH
+  code: KMR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1733
   endTime: '2100-01-01'
@@ -1218,8 +1218,8 @@
   network: IR
   sensor: Tril120
   startTime: '2012-05-01'
-  station: KMR
-- code: BH
+  code: KMR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1808
   endTime: '2100-01-01'
@@ -1229,8 +1229,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: BZRK
-- code: BH
+  code: BZRK
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2494
   endTime: '2100-01-01'
@@ -1240,8 +1240,8 @@
   network: IR
   sensor: Tril40
   startTime: '2013-10-01'
-  station: BDRS
-- code: BH
+  code: BDRS
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1698
   endTime: '2100-01-01'
@@ -1251,8 +1251,8 @@
   network: IR
   sensor: Tril40
   startTime: '2013-10-01'
-  station: BMDN
-- code: BH
+  code: BMDN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2175
   endTime: '2100-01-01'
@@ -1262,8 +1262,8 @@
   network: IR
   sensor: Tril40
   startTime: '2023-07-19'
-  station: RAZA
-- code: BH
+  code: RAZA
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1831
   endTime: '2017-12-31'
@@ -1273,8 +1273,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: HAGD
-- code: SH
+  code: HAGD
+- channel: SH
   digitizer: T40_Cen
   elevation: 1831
   endTime: '2100-01-01'
@@ -1284,8 +1284,8 @@
   network: IR
   sensor: T40_Cen
   startTime: '2018-01-01'
-  station: HAGD
-- code: BH
+  code: HAGD
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2328
   endTime: '2100-01-01'
@@ -1295,8 +1295,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: HKZM
-- code: BH
+  code: HKZM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2314
   endTime: '2100-01-01'
@@ -1306,8 +1306,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: HSAM
-- code: BH
+  code: HSAM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2545
   endTime: '2013-07-15'
@@ -1317,8 +1317,8 @@
   network: IR
   sensor: Tril120
   startTime: '1996-01-01'
-  station: HSRG
-- code: BH
+  code: HSRG
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2545
   endTime: '2100-01-01'
@@ -1328,8 +1328,8 @@
   network: IR
   sensor: Tril40
   startTime: '2013-07-16'
-  station: HSRG
-- code: SH
+  code: HSRG
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2450
   endTime: '2100-01-01'
@@ -1339,8 +1339,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-07-16'
-  station: HALM
-- code: BH
+  code: HALM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1996
   endTime: '2100-01-01'
@@ -1350,8 +1350,8 @@
   network: IR
   sensor: Tril40
   startTime: '2017-12-29'
-  station: HGHA
-- code: SH
+  code: HGHA
+- channel: SH
   digitizer: T40_Cen
   elevation: 1643
   endTime: '2100-01-01'
@@ -1361,8 +1361,8 @@
   network: IR
   sensor: T40_Cen
   startTime: '2021-04-01'
-  station: HNVD
-- code: SH
+  code: HNVD
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2280
   endTime: '2100-01-01'
@@ -1372,8 +1372,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: KLH
-- code: SH
+  code: KLH
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2000
   endTime: '2010-08-28'
@@ -1383,8 +1383,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: RAM
-- code: SH
+  code: RAM
+- channel: SH
   digitizer: SS1_RD3
   elevation: 2000
   endTime: '2020-09-20'
@@ -1394,8 +1394,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '2010-08-29'
-  station: RAM
-- code: SH
+  code: RAM
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2000
   endTime: '2100-01-01'
@@ -1405,8 +1405,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2020-09-21'
-  station: RAM
-- code: SH
+  code: RAM
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2600
   endTime: '2100-01-01'
@@ -1416,8 +1416,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: PIR
-- code: SH
+  code: PIR
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2320
   endTime: '2100-01-01'
@@ -1427,8 +1427,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: ZEF
-- code: SH
+  code: ZEF
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2020
   endTime: '2100-01-01'
@@ -1438,8 +1438,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: GAR
-- code: BH
+  code: GAR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2660
   endTime: '2100-01-01'
@@ -1449,8 +1449,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: KLNJ
-- code: BH
+  code: KLNJ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1323
   endTime: '2100-01-01'
@@ -1460,8 +1460,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: ANAR
-- code: BH
+  code: ANAR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1630
   endTime: '2012-06-25'
@@ -1471,8 +1471,8 @@
   network: IR
   sensor: Tril240
   startTime: '1996-01-01'
-  station: KRSH
-- code: BH
+  code: KRSH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1630
   endTime: '2100-01-01'
@@ -1482,8 +1482,8 @@
   network: IR
   sensor: Tril40
   startTime: '2012-06-26'
-  station: KRSH
-- code: SH
+  code: KRSH
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1865
   endTime: '2013-08-24'
@@ -1493,8 +1493,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: QAM
-- code: SH
+  code: QAM
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2245
   endTime: '2100-01-01'
@@ -1504,8 +1504,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2015-06-05'
-  station: QAMS
-- code: BH
+  code: QAMS
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1206
   endTime: '2100-01-01'
@@ -1515,8 +1515,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TKDS
-- code: BH
+  code: TKDS
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1123
   endTime: '2100-01-01'
@@ -1526,8 +1526,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TNSJ
-- code: BH
+  code: TNSJ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1022
   endTime: '2100-01-01'
@@ -1537,8 +1537,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TPRV
-- code: BH
+  code: TPRV
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1253
   endTime: '2100-01-01'
@@ -1548,8 +1548,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TAPT
-- code: BH
+  code: TAPT
+- channel: BH
   digitizer: T120Com_Cen
   elevation: 1057
   endTime: '2100-01-01'
@@ -1559,8 +1559,8 @@
   network: IR
   sensor: T120Com_Cen
   startTime: '2020-06-01'
-  station: TSHB
-- code: SH
+  code: TSHB
+- channel: SH
   digitizer: SS1_Tau
   elevation: 757
   endTime: '2100-01-01'
@@ -1570,8 +1570,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2023-06-01'
-  station: TPT1
-- code: SH
+  code: TPT1
+- channel: SH
   digitizer: SS1_Cen
   elevation: 2368
   endTime: '2020-06-15'
@@ -1581,8 +1581,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MON
-- code: SH
+  code: MON
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1940
   endTime: '2100-01-01'
@@ -1592,8 +1592,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: KOO
-- code: SH
+  code: KOO
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1745
   endTime: '2100-01-01'
@@ -1603,8 +1603,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: TEG
-- code: SH
+  code: TEG
+- channel: SH
   digitizer: SS1_Cen
   elevation: 2341
   endTime: '2020-11-10'
@@ -1614,8 +1614,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: DAH
-- code: BH
+  code: DAH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1307
   endTime: '2100-01-01'
@@ -1625,8 +1625,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-11-05'
-  station: NHDN
-- code: BH
+  code: NHDN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1497
   endTime: '2014-04-17'
@@ -1636,8 +1636,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2013-11-05'
-  station: AFRZ
-- code: SH
+  code: AFRZ
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2581
   endTime: '2100-01-01'
@@ -1647,8 +1647,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '2016-10-01'
-  station: BAGH
-- code: BH
+  code: BAGH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 19
   endTime: '2015-01-04'
@@ -1658,8 +1658,8 @@
   network: IR
   sensor: CMG3T
   startTime: '1996-01-01'
-  station: AHWZ
-- code: BH
+  code: AHWZ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 442
   endTime: '2100-01-01'
@@ -1669,8 +1669,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-01-06'
-  station: AMIS
-- code: BH
+  code: AMIS
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 346
   endTime: '2100-01-01'
@@ -1680,8 +1680,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-01-07'
-  station: ABH1
-- code: BH
+  code: ABH1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2022
   endTime: '2100-01-01'
@@ -1691,8 +1691,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: ROKH
-- code: BH
+  code: ROKH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2662
   endTime: '2100-01-01'
@@ -1702,8 +1702,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: ZNGN
-- code: BH
+  code: ZNGN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2657
   endTime: '2100-01-01'
@@ -1713,8 +1713,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: JHBN
-- code: SH
+  code: JHBN
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2300
   endTime: '2015-11-01'
@@ -1724,8 +1724,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: BRJ
-- code: BH
+  code: BRJ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2093
   endTime: '2100-01-01'
@@ -1735,8 +1735,8 @@
   network: IR
   sensor: Tril40
   startTime: '2014-12-01'
-  station: SHK1
-- code: SH
+  code: SHK1
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1989
   endTime: '2100-01-01'
@@ -1746,8 +1746,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MEH
-- code: SH
+  code: MEH
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1415
   endTime: '2100-01-01'
@@ -1757,8 +1757,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: BAF
-- code: SH
+  code: BAF
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2464
   endTime: '2100-01-01'
@@ -1768,8 +1768,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SAD
-- code: SH
+  code: SAD
+- channel: SH
   digitizer: SS1_HRD
   elevation: 1537
   endTime: '2100-01-01'
@@ -1779,8 +1779,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: CHK
-- code: BH
+  code: CHK
+- channel: BH
   digitizer: DM24
   elevation: 2036
   endTime: '2100-01-01'
@@ -1790,8 +1790,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2017-01-01'
-  station: TAFT
-- code: BH
+  code: TAFT
+- channel: BH
   digitizer: DM24
   elevation: 1500
   endTime: '2100-01-01'
@@ -1801,8 +1801,8 @@
   network: IR
   sensor: CMG3ESP
   startTime: '2020-01-01'
-  station: DOBD
-- code: SH
+  code: DOBD
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2785
   endTime: '2100-01-01'
@@ -1812,8 +1812,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: MOK
-- code: SH
+  code: MOK
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2580
   endTime: '2100-01-01'
@@ -1823,8 +1823,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: PAR
-- code: SH
+  code: PAR
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2688
   endTime: '2100-01-01'
@@ -1834,8 +1834,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SRV
-- code: SH
+  code: SRV
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2809
   endTime: '2100-01-01'
@@ -1845,8 +1845,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: KAZ
-- code: BH
+  code: KAZ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1600
   endTime: '2012-05-01'
@@ -1856,8 +1856,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '1996-01-01'
-  station: SHI
-- code: BH
+  code: SHI
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 425
   endTime: '2100-01-01'
@@ -1867,8 +1867,8 @@
   network: IR
   sensor: Tril40
   startTime: '2013-05-19'
-  station: LMD1
-- code: SH
+  code: LMD1
+- channel: SH
   digitizer: SS1_HRD
   elevation: 2812
   endTime: '2100-01-01'
@@ -1878,8 +1878,8 @@
   network: IR
   sensor: SS1_HRD
   startTime: '2013-12-23'
-  station: GHB
-- code: BH
+  code: GHB
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 785
   endTime: '2100-01-01'
@@ -1889,8 +1889,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-12-23'
-  station: LAR1
-- code: SH
+  code: LAR1
+- channel: SH
   digitizer: SS1_Tau
   elevation: 850
   endTime: '2100-01-01'
@@ -1900,8 +1900,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2014-07-08'
-  station: KAZ1
-- code: SH
+  code: KAZ1
+- channel: SH
   digitizer: SS1_Tau
   elevation: 740
   endTime: '2100-01-01'
@@ -1911,8 +1911,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2014-11-09'
-  station: QIR1
-- code: SH
+  code: QIR1
+- channel: SH
   digitizer: SS1_Tau
   elevation: 884
   endTime: '2100-01-01'
@@ -1922,8 +1922,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2018-02-26'
-  station: KAZ2
-- code: BH
+  code: KAZ2
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 468
   endTime: '2100-01-01'
@@ -1933,8 +1933,8 @@
   network: IR
   sensor: Tril40
   startTime: '2019-12-01'
-  station: KHL1
-- code: BH
+  code: KHL1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 998
   endTime: '2100-01-01'
@@ -1944,8 +1944,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: JHRM
-- code: BH
+  code: JHRM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 780
   endTime: '2100-01-01'
@@ -1955,8 +1955,8 @@
   network: IR
   sensor: Tril120
   startTime: '2020-06-01'
-  station: MZN1
-- code: BH
+  code: MZN1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 799
   endTime: '2100-01-01'
@@ -1966,8 +1966,8 @@
   network: IR
   sensor: Tril120
   startTime: '2022-04-15'
-  station: MZJN
-- code: BH
+  code: MZJN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2564
   endTime: '2100-01-01'
@@ -1977,8 +1977,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: CHMN
-- code: BH
+  code: CHMN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2530
   endTime: '2100-01-01'
@@ -1988,8 +1988,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: TVBK
-- code: BH
+  code: TVBK
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1800
   endTime: '2100-01-01'
@@ -1999,8 +1999,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: KHGB
-- code: BH
+  code: KHGB
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2850
   endTime: '2100-01-01'
@@ -2010,8 +2010,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: NGRK
-- code: BH
+  code: NGRK
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 492
   endTime: '2100-01-01'
@@ -2021,8 +2021,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-05-15'
-  station: KHNJ
-- code: BH
+  code: KHNJ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 975
   endTime: '2100-01-01'
@@ -2032,8 +2032,8 @@
   network: IR
   sensor: Tril120
   startTime: '2014-09-15'
-  station: KBAM
-- code: BH
+  code: KBAM
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1996
   endTime: '2100-01-01'
@@ -2043,8 +2043,8 @@
   network: IR
   sensor: Tril40
   startTime: '2017-12-17'
-  station: KRM1
-- code: BH
+  code: KRM1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1150
   endTime: '2100-01-01'
@@ -2054,8 +2054,8 @@
   network: IR
   sensor: Tril40
   startTime: '2021-01-01'
-  station: KSHD
-- code: BH
+  code: KSHD
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 900
   endTime: '2100-01-01'
@@ -2065,8 +2065,8 @@
   network: IR
   sensor: Tril120
   startTime: '2021-07-01'
-  station: KHJ1
-- code: BH
+  code: KHJ1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2100
   endTime: '2100-01-01'
@@ -2076,8 +2076,8 @@
   network: IR
   sensor: Tril120
   startTime: '2021-07-01'
-  station: KSHB
-- code: SH
+  code: KSHB
+- channel: SH
   digitizer: T40_Cen
   elevation: 1100
   endTime: '2100-01-01'
@@ -2087,8 +2087,8 @@
   network: IR
   sensor: T40_Cen
   startTime: '2021-07-01'
-  station: KRVR
-- code: BH
+  code: KRVR
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1600
   endTime: '2100-01-01'
@@ -2098,8 +2098,8 @@
   network: IR
   sensor: Tril40
   startTime: '2021-07-01'
-  station: KANR
-- code: SH
+  code: KANR
+- channel: SH
   digitizer: Taurus40vpp
   elevation: 2030
   endTime: '2100-01-01'
@@ -2109,8 +2109,8 @@
   network: IR
   sensor: Tril40
   startTime: '2016-01-06'
-  station: ZRDN
-- code: BH
+  code: ZRDN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2188
   endTime: '2100-01-01'
@@ -2120,8 +2120,8 @@
   network: IR
   sensor: Tril40
   startTime: '2023-08-01'
-  station: KZRD
-- code: BH
+  code: KZRD
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1364
   endTime: '2100-01-01'
@@ -2131,8 +2131,8 @@
   network: IR
   sensor: Tril120
   startTime: '2012-10-20'
-  station: SZD1
-- code: BH
+  code: SZD1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1511
   endTime: '2100-01-01'
@@ -2142,8 +2142,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-04-13'
-  station: ZHDN
-- code: BH
+  code: ZHDN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1352
   endTime: '2100-01-01'
@@ -2153,8 +2153,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-04-15'
-  station: SRVN
-- code: BH
+  code: SRVN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 46
   endTime: '2100-01-01'
@@ -2164,8 +2164,8 @@
   network: IR
   sensor: Tril120
   startTime: '2015-08-01'
-  station: NGCH
-- code: BH
+  code: NGCH
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 204
   endTime: '2100-01-01'
@@ -2175,8 +2175,8 @@
   network: IR
   sensor: Tril40
   startTime: '2014-08-19'
-  station: DHL1
-- code: SH
+  code: DHL1
+- channel: SH
   digitizer: SS1_RD3
   elevation: 62
   endTime: '2100-01-01'
@@ -2186,8 +2186,8 @@
   network: IR
   sensor: SS1_RD3
   startTime: '1996-01-01'
-  station: BND
-- code: BH
+  code: BND
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 40
   endTime: '2100-01-01'
@@ -2197,8 +2197,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: KHSK
-- code: BH
+  code: KHSK
+- channel: BH
   digitizer: RD3
   elevation: 62
   endTime: '2014-01-01'
@@ -2208,8 +2208,8 @@
   network: IR
   sensor: CMG3T
   startTime: '1996-01-01'
-  station: BNB
-- code: BH
+  code: BNB
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1616
   endTime: '2100-01-01'
@@ -2219,8 +2219,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: GENO
-- code: BH
+  code: GENO
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 248
   endTime: '2100-01-01'
@@ -2230,8 +2230,8 @@
   network: IR
   sensor: Tril40
   startTime: '1996-01-01'
-  station: NIAN
-- code: BH
+  code: NIAN
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 29
   endTime: '2100-01-01'
@@ -2241,8 +2241,8 @@
   network: IR
   sensor: Tril40
   startTime: '2013-05-16'
-  station: MNB1
-- code: BH
+  code: MNB1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 15
   endTime: '2015-04-29'
@@ -2252,8 +2252,8 @@
   network: IR
   sensor: Tril120
   startTime: '2013-05-15'
-  station: JSK1
-- code: BH
+  code: JSK1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 234
   endTime: '2100-01-01'
@@ -2263,8 +2263,8 @@
   network: IR
   sensor: Tril120
   startTime: '2016-04-01'
-  station: JASK
-- code: BH
+  code: JASK
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 900
   endTime: '2100-01-01'
@@ -2274,8 +2274,8 @@
   network: IR
   sensor: Tril120
   startTime: '2021-01-01'
-  station: BAZ1
-- code: BH
+  code: BAZ1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 18
   endTime: '2100-01-01'
@@ -2285,8 +2285,8 @@
   network: IR
   sensor: Tril40
   startTime: '2015-07-13'
-  station: CSN1
-- code: BH
+  code: CSN1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1567
   endTime: '2100-01-01'
@@ -2296,8 +2296,8 @@
   network: IR
   sensor: Tril40
   startTime: '2015-07-12'
-  station: JIR1
-- code: BH
+  code: JIR1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 669
   endTime: '2100-01-01'
@@ -2307,8 +2307,8 @@
   network: IR
   sensor: Tril40
   startTime: '2015-12-23'
-  station: LHJ1
-- code: BH
+  code: LHJ1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 79
   endTime: '2100-01-01'
@@ -2318,8 +2318,8 @@
   network: IR
   sensor: Tril40
   startTime: '2015-07-13'
-  station: LHJ2
-- code: BH
+  code: LHJ2
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 12
   endTime: '2100-01-01'
@@ -2329,8 +2329,8 @@
   network: IR
   sensor: Tril40
   startTime: '2015-07-13'
-  station: RST1
-- code: BH
+  code: RST1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 29
   endTime: '2100-01-01'
@@ -2340,8 +2340,8 @@
   network: IR
   sensor: Tril40
   startTime: '2015-07-13'
-  station: GAS1
-- code: BH
+  code: GAS1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 656
   endTime: '2100-01-01'
@@ -2351,8 +2351,8 @@
   network: IR
   sensor: Tril40
   startTime: '2016-12-01'
-  station: DSBU
-- code: SH
+  code: DSBU
+- channel: SH
   digitizer: MMMMMM
   elevation: 27
   endTime: '2100-01-01'
@@ -2362,8 +2362,8 @@
   network: IR
   sensor: MMMMMM
   startTime: '2022-06-20'
-  station: KIS1
-- code: SH
+  code: KIS1
+- channel: SH
   digitizer: MMMMMM
   elevation: 3.7
   endTime: '2100-01-01'
@@ -2373,8 +2373,8 @@
   network: IR
   sensor: MMMMMM
   startTime: '2022-06-20'
-  station: KIS2
-- code: SH
+  code: KIS2
+- channel: SH
   digitizer: MMMMMM
   elevation: 1.5
   endTime: '2100-01-01'
@@ -2384,8 +2384,8 @@
   network: IR
   sensor: MMMMMM
   startTime: '2022-06-20'
-  station: KIS3
-- code: SH
+  code: KIS3
+- channel: SH
   digitizer: MMMMMM
   elevation: 31
   endTime: '2100-01-01'
@@ -2395,8 +2395,8 @@
   network: IR
   sensor: MMMMMM
   startTime: '2022-06-20'
-  station: KIS4
-- code: BH
+  code: KIS4
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1591
   endTime: '2100-01-01'
@@ -2406,8 +2406,8 @@
   network: IR
   sensor: Tril120
   startTime: '2017-01-01'
-  station: SDS1
-- code: SH
+  code: SDS1
+- channel: SH
   digitizer: SS1_Tau
   elevation: 2388
   endTime: '2100-01-01'
@@ -2417,8 +2417,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2017-01-01'
-  station: SLM1
-- code: BH
+  code: SLM1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1320
   endTime: '2100-01-01'
@@ -2428,8 +2428,8 @@
   network: IR
   sensor: Tril40
   startTime: '2017-01-01'
-  station: NGD1
-- code: BH
+  code: NGD1
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 1393
   endTime: '2100-01-01'
@@ -2439,8 +2439,8 @@
   network: IR
   sensor: Tril40
   startTime: '2022-09-10'
-  station: URUN
-- code: SH
+  code: URUN
+- channel: SH
   digitizer: Cen_S13
   elevation: 2210
   endTime: '2100-01-01'
@@ -2450,8 +2450,8 @@
   network: IR
   sensor: Cen_S13
   startTime: '2019-11-01'
-  station: BJND
-- code: SH
+  code: BJND
+- channel: SH
   digitizer: T40_Cen
   elevation: 2221
   endTime: '2100-01-01'
@@ -2461,8 +2461,8 @@
   network: IR
   sensor: T40_Cen
   startTime: '2020-09-01'
-  station: SLJL
-- code: BH
+  code: SLJL
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2146
   endTime: '2100-01-01'
@@ -2472,8 +2472,8 @@
   network: IR
   sensor: Tril40
   startTime: '2020-08-01'
-  station: SAQZ
-- code: BH
+  code: SAQZ
+- channel: BH
   digitizer: Taurus40vpp
   elevation: 2380
   endTime: '2100-01-01'
@@ -2483,8 +2483,8 @@
   network: IR
   sensor: Tril40
   startTime: '2020-06-01'
-  station: SNJK
-- code: BH
+  code: SNJK
+- channel: BH
   digitizer: 3ESP120_C
   elevation: 0
   endTime: '2100-01-01'
@@ -2494,8 +2494,8 @@
   network: IR
   sensor: 3ESP120_C
   startTime: '2024-01-01'
-  station: KISH
-- code: BH
+  code: KISH
+- channel: BH
   digitizer: 3ESP120
   elevation: 1200
   endTime: '2100-01-01'
@@ -2505,8 +2505,8 @@
   network: IR
   sensor: 3ESP120
   startTime: '2024-01-01'
-  station: MYAM
-- code: BH
+  code: MYAM
+- channel: BH
   digitizer: 3ESP120
   elevation: 888
   endTime: '2100-01-01'
@@ -2516,8 +2516,8 @@
   network: IR
   sensor: 3ESP120
   startTime: '2024-01-01'
-  station: GACH
-- code: SH
+  code: GACH
+- channel: SH
   digitizer: SS1_Tau
   elevation: 1927
   endTime: '2100-01-01'
@@ -2527,8 +2527,8 @@
   network: IR
   sensor: SS1_Tau
   startTime: '2024-06-14'
-  station: ARUN
-- code: BH
+  code: ARUN
+- channel: BH
   digitizer: 3ESP120
   elevation: 1340
   endTime: '2100-01-01'
@@ -2538,4 +2538,4 @@
   network: IR
   sensor: 3ESP120
   startTime: '2024-06-14'
-  station: GHMN
+  code: GHMN
